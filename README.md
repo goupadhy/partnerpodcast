@@ -162,13 +162,7 @@ Access-Control-Allow-Methods: GET
 
 ## Deployment
 
-### Static Hosting
-This is a static website that can be hosted on:
-- **Azure Static Web Apps**
-- **GitHub Pages**
-- **Netlify**
-- **Vercel**
-- **AWS S3 + CloudFront**
+
 
 ### CDN Setup
 For better performance, use a CDN for:
@@ -178,21 +172,7 @@ For better performance, use a CDN for:
 
 ## Troubleshooting
 
-### Audio Not Playing
-1. Check audio file URL and accessibility
-2. Verify browser audio policy compliance
-3. Ensure CORS headers for cross-origin audio
-4. Check browser console for errors
 
-### Layout Issues
-1. Verify CSS file is loading correctly
-2. Check browser compatibility
-3. Test responsive design on different screen sizes
-
-### JavaScript Errors
-1. Check browser console for error messages
-2. Verify all required DOM elements exist
-3. Ensure proper event listener setup
 
 ## Future Enhancements
 
@@ -218,3 +198,4 @@ For technical support or feature requests, please refer to the Microsoft Partner
 ## License
 
 This project is provided as-is for Microsoft partners. Customize and use according to your organization's needs while maintaining compliance with Microsoft branding guidelines.
+
