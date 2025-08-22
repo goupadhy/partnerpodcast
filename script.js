@@ -16,7 +16,7 @@ const podcastData = [
         title: "Microsoft 365 Copilot: Boosting Productivity",
         description: "Discover how Microsoft 365 Copilot is enhancing productivity across organizations and driving partner success.",
         category: "business",
-        host: "Ratnesh Pandey",
+        host: "Pratibha Michael",
         duration: "32:15",
         date: "2025-08-03",
         audioUrl: "https://www.soundjay.com/misc/sounds/fail-buzzer-02.wav",
@@ -469,4 +469,5 @@ document.addEventListener('keydown', (e) => {
 // Initialize volume
 adjustVolume();
 updateVolumeIcon();
+
 
